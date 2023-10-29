@@ -1,0 +1,17 @@
+.banner {
+  background: url(https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010144.jpg?w=740&t=st=1698588133~exp=1698588733~hmac=ce36f493aa1aa85add841c12d5f4ec77b496f4b4d337f83c38ba8c1d548465f9)
+    no-repeat center center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
+
+.kontak {
+  background: url(https://wallpaperaccess.com/full/1867010.jpg) no-repeat center
+    center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: #fff;
+}
